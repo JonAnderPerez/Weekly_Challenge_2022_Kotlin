@@ -5,13 +5,14 @@ Estoy participando en el reto semanal que ha creado el divulgador de programaci�
 en el que cada semana propone un nuevo reto de programación
 
 ## Listado de retos realizados
-
-## Listado de retos por realizar
 * **#0** - `EL FAMOSO "FIZZ BUZZ"`
 * **#1** - `¿ES UN ANAGRAMA?`
 * **#2** - `LA SUCESIÓN DE FIBONACCI`
 * **#3** - `¿ES UN NÚMERO PRIMO?`
 * **#4** - `ÁREA DE UN POLÍGONO`
+
+## Listado de retos por realizar
+
 * **#5** - `ASPECT RATIO DE UNA IMAGEN`
 * **#6** - `INVIRTIENDO CADENAS`
 * **#7** - `CONTANDO PALABRAS`
