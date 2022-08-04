@@ -11,12 +11,13 @@ en el que cada semana propone un nuevo reto de programación
 * **#3** - `¿ES UN NÚMERO PRIMO?`
 * **#4** - `ÁREA DE UN POLÍGONO`
 
-## Listado de retos por realizar
-
-* **#5** - `ASPECT RATIO DE UNA IMAGEN`
 * **#6** - `INVIRTIENDO CADENAS`
 * **#7** - `CONTANDO PALABRAS`
 * **#8** - `DECIMAL A BINARIO`
+
+## Listado de retos por realizar
+
+* **#5** - `ASPECT RATIO DE UNA IMAGEN`
 * **#9** - `CÓDIGO MORSE`
 * **#10** - `EXPRESIONES EQUILIBRADAS`
 * **#11** - `ELIMINANDO CARACTERES`
