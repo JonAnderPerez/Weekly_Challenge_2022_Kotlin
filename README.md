@@ -14,12 +14,12 @@ en el que cada semana propone un nuevo reto de programación
 * **#6** - `INVIRTIENDO CADENAS`
 * **#7** - `CONTANDO PALABRAS`
 * **#8** - `DECIMAL A BINARIO`
+* **#9** - `CÓDIGO MORSE`
+* **#10** - `EXPRESIONES EQUILIBRADAS`
 
 ## Listado de retos por realizar
 
 * **#5** - `ASPECT RATIO DE UNA IMAGEN`
-* **#9** - `CÓDIGO MORSE`
-* **#10** - `EXPRESIONES EQUILIBRADAS`
 * **#11** - `ELIMINANDO CARACTERES`
 * **#12** - `¿ES UN PALÍNDROMO?`
 * **#13** - `FACTORIAL RECURSIVO`
